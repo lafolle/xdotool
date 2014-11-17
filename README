@@ -20,4 +20,7 @@ Also, see the manpage, which you can generate by running:
   make showman
 Note: the manpage will be installed during 'make install'
 
-
+Dependencies:
+	1. libxtst-dev
+	2. libxinerama-dev
+	3. libxkbcommon-dev
